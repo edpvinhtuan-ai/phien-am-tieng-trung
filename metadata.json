@@ -1,0 +1,10 @@
+{
+  "name": "Học Phiên Âm Tiếng Trung: Pinyin & Bopomofo",
+  "description": "Ứng dụng học phiên âm tiếng Trung bằng chữ Latin (Pinyin) và Chú âm (Bopomofo), luyện phát âm kiểm tra bằng AI và theo dõi lịch sử tiến độ học tập hàng ngày.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
